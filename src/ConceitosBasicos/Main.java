@@ -3,6 +3,7 @@ package ConceitosBasicos;
 public class Main {
     public static void main(String[] args) {
         //Testando anotações
+        //teste
         double forceCasting = 25.5;
         System.out.println("Primeiro número é DOUBLE: " + forceCasting);
 
