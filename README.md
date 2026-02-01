@@ -1,13 +1,33 @@
-Java Fundamentos – Módulo 1
+# ☕ Java Fundamentos – Módulo 1
 
-Este repositório contém os códigos e exemplos práticos desenvolvidos ao longo do primeiro módulo do curso de Java na plataforma Alura.
+Este repositório reúne os **códigos, exemplos práticos e exercícios** desenvolvidos durante o **Módulo 1 do curso de Java** da plataforma **Alura**.
 
-Conteúdos abordados:
+O objetivo deste projeto é consolidar os **conceitos fundamentais da linguagem Java**, aplicando a teoria na prática e organizando o aprendizado de forma clara e evolutiva.
 
-Configuração do JDK e execução de programas Java
-Variáveis, tipos de dados e operadores
-Estruturas de controle (if, else, switch)
-Laços de repetição (for, while)
-Introdução a Orientação a Objetos: classes, objetos e métodos
+---
 
-Este projeto faz parte da minha jornada de estudos em Java e demonstra a aplicação prática dos conceitos fundamentais da linguagem.
+## 📚 Conteúdos abordados
+
+- ⚙️ Configuração do **JDK** e execução de programas Java  
+- 🧮 **Variáveis**, tipos de dados e operadores  
+- 🔀 Estruturas de controle de fluxo  
+  - `if`, `else`, `switch`  
+- 🔁 Laços de repetição  
+  - `for`, `while`  
+- 🧱 Introdução à **Programação Orientada a Objetos (POO)**  
+  - Classes  
+  - Objetos  
+  - Métodos  
+
+---
+
+## 🎯 Objetivo do repositório
+
+Este projeto faz parte da minha **jornada de estudos em Java** e tem como finalidade:
+
+- Reforçar os conceitos básicos da linguagem  
+- Praticar a lógica de programação  
+- Criar uma base sólida para módulos e projetos mais avançados  
+- Manter um histórico organizado de aprendizado para consulta futura  
+
+---
